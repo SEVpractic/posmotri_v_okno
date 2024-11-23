@@ -58,6 +58,7 @@ ol {
   column-gap: 30px;
   justify-content: space-between;
   align-items: end;
+  align-self: center;
 }
 
 .result__video-container {
